@@ -1,0 +1,8 @@
+C:\Users\HFGF\source\repos\H1-SDE\Dag11\Dag11\bin\Debug\Dag11.exe.config
+C:\Users\HFGF\source\repos\H1-SDE\Dag11\Dag11\bin\Debug\Dag11.exe
+C:\Users\HFGF\source\repos\H1-SDE\Dag11\Dag11\bin\Debug\Dag11.pdb
+C:\Users\HFGF\source\repos\H1-SDE\Dag11\Dag11\obj\Debug\Dag11.csproj.AssemblyReference.cache
+C:\Users\HFGF\source\repos\H1-SDE\Dag11\Dag11\obj\Debug\Dag11.csproj.SuggestedBindingRedirects.cache
+C:\Users\HFGF\source\repos\H1-SDE\Dag11\Dag11\obj\Debug\Dag11.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\H1-SDE\Dag11\Dag11\obj\Debug\Dag11.exe
+C:\Users\HFGF\source\repos\H1-SDE\Dag11\Dag11\obj\Debug\Dag11.pdb

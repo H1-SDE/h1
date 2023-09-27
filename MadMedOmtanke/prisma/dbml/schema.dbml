@@ -1,0 +1,39 @@
+//// ------------------------------------------------------
+//// THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+//// ------------------------------------------------------
+
+Table employees {
+  id String [pk, unique]
+  firstname String [not null]
+  lastname String [not null]
+  phonenumber Int [unique]
+  email String [not null]
+  address String [not null]
+  city String [not null]
+  zip_code Int [not null]
+  position String [not null]
+  department_number Int [not null]
+  department_leader String [not null]
+  skills String [not null]
+
+  Note: 'The underlying table does not contain a valid unique identifier and can therefore currently not be handled by the Prisma Client.'
+}
+
+Table departments {
+  department_number Int [pk, increment, ref: > employees.department_number]
+  department_type String [not null]
+  address String [not null]
+  city String [not null]
+  zip_code Int [not null]
+}
+
+Table customer_view {
+  firstname String [ref: - employees.firstname, not null]
+  lastname String [ref: - employees.lastname, not null]
+  email String [pk, ref: - employees.email]
+  department_number Int [ref: - employees.department_number, not null]
+  department_leader String [ref: - employees.department_leader, not null]
+  skills String [ref: - employees.skills,not null]
+
+  Note: 'The underlying view does not contain a valid unique identifier and can therefore currently not be handled by the Prisma Client.'
+}

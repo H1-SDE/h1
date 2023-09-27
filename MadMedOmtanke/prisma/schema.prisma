@@ -1,0 +1,59 @@
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["views"]
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+/// The underlying table does not contain a valid unique identifier and can therefore currently not be handled by the Prisma Client.
+model employees {
+  id                String  @id @unique(map: "id_UNIQUE") @db.VarChar(255)
+  firstname         String? @db.VarChar(255)
+  lastname          String? @db.VarChar(255)
+  phonenumber       Int?
+  email             String? @db.VarChar(255)
+  address           String? @db.VarChar(255)
+  city              String? @db.VarChar(255)
+  zip_code          Int?
+  position          String? @db.VarChar(255)
+  department_number Int?
+  department_leader String? @db.VarChar(255)
+  skills            String? @db.VarChar(255)
+
+  @@index([position], map: "position_name")
+  @@index([department_number], map: "department_number")
+}
+
+model departments {
+  department_number Int     @id @default(autoincrement())
+  department_type   String? @db.VarChar(255)
+  address           String? @db.VarChar(255)
+  city              String? @db.VarChar(255)
+  zip_code          Int?
+}
+
+/// The underlying view does not contain a valid unique identifier and can therefore currently not be handled by the Prisma Client.
+view customer_view {
+  firstname         String? @db.VarChar(255)
+  lastname          String? @db.VarChar(255)
+  email             String  @id @db.VarChar(255)
+  department_number Int?
+  department_leader String? @db.VarChar(255)
+  skills            String? @db.VarChar(255)
+}
+
+/// The underlying view does not contain a valid unique identifier and can therefore currently not be handled by the Prisma Client.
+view employees_view {
+  id                String  @db.VarChar(255)
+  name              String? @db.VarChar(511)
+  phonenumber       Int?
+  email             String  @id @db.VarChar(255)
+  address           String? @db.Text
+  position          String? @db.VarChar(255)
+  department_number Int?
+  department_leader String? @db.VarChar(255)
+  skills            String? @db.VarChar(255)
+}

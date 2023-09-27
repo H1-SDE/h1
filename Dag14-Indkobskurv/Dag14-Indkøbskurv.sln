@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dag14-Indkøbskurv", "Dag14-Indkøbskurv\Dag14-Indkøbskurv.csproj", "{94F38969-E9AF-4BD9-A1BC-5E15338A4A82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94F38969-E9AF-4BD9-A1BC-5E15338A4A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F38969-E9AF-4BD9-A1BC-5E15338A4A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F38969-E9AF-4BD9-A1BC-5E15338A4A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F38969-E9AF-4BD9-A1BC-5E15338A4A82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F806C4F-3683-4600-AA14-54D3682916EF}
+	EndGlobalSection
+EndGlobal

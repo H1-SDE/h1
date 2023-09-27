@@ -1,0 +1,5 @@
+﻿firstname;lastname;phonenumber;email;address;city;zip_code;position;department_number;department_leader;skills
+Peter;Petersen;45678901;;vejsvej 1;Nyborg;5800;Service;4;Bob;null
+Jørgen;Jørgensen;56789012;jørg@mail.com;vejsalle 1;Frederiksberg;1800;Kassearbejder;5;Bob;null
+Børge;Andersen;67890123;band@mail.com;vejtoft 1;Odense;5000;Gulvvasker;5;Bob;null
+Frederik;Frederiksen;78901234;;allévej 1;Odense;5250;Vægvasker;6;Bob;null

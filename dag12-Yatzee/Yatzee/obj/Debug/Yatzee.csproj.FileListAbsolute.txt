@@ -1,0 +1,8 @@
+C:\Users\HFGF\source\repos\H1-SDE\Yatzee\Yatzee\bin\Debug\Yatzee.exe.config
+C:\Users\HFGF\source\repos\H1-SDE\Yatzee\Yatzee\bin\Debug\Yatzee.exe
+C:\Users\HFGF\source\repos\H1-SDE\Yatzee\Yatzee\bin\Debug\Yatzee.pdb
+C:\Users\HFGF\source\repos\H1-SDE\Yatzee\Yatzee\obj\Debug\Yatzee.csproj.AssemblyReference.cache
+C:\Users\HFGF\source\repos\H1-SDE\Yatzee\Yatzee\obj\Debug\Yatzee.csproj.SuggestedBindingRedirects.cache
+C:\Users\HFGF\source\repos\H1-SDE\Yatzee\Yatzee\obj\Debug\Yatzee.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\H1-SDE\Yatzee\Yatzee\obj\Debug\Yatzee.exe
+C:\Users\HFGF\source\repos\H1-SDE\Yatzee\Yatzee\obj\Debug\Yatzee.pdb

@@ -1,0 +1,5 @@
+{
+    "authOn": false,
+    "auth": "authTest",
+    "authErrorMessage": "No authorization"
+}

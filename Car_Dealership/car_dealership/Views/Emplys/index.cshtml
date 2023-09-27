@@ -1,0 +1,60 @@
+@model IEnumerable<car_dealership.Models.EmplyModel>
+
+@{
+    ViewData["Title"] = "Employees";
+}
+
+<h1>Employees</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.EmplyID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Initial)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Type)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EmplyID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Initial)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Type)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id=item.EmplyID }) |
+                    @Html.ActionLink("Details", "Details", new { id=item.EmplyID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id=item.EmplyID })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,8 @@
+C:\Users\HFGF\source\repos\H1-SDE\Dag11-regner\Dag11-regner\obj\Debug\Dag11-regner.csproj.AssemblyReference.cache
+C:\Users\HFGF\source\repos\H1-SDE\Dag11-regner\Dag11-regner\obj\Debug\Dag11-regner.csproj.SuggestedBindingRedirects.cache
+C:\Users\HFGF\source\repos\H1-SDE\Dag11-regner\Dag11-regner\obj\Debug\Dag11-regner.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\H1-SDE\Dag11-regner\Dag11-regner\bin\Debug\Dag11-regner.exe.config
+C:\Users\HFGF\source\repos\H1-SDE\Dag11-regner\Dag11-regner\bin\Debug\Dag11-regner.exe
+C:\Users\HFGF\source\repos\H1-SDE\Dag11-regner\Dag11-regner\bin\Debug\Dag11-regner.pdb
+C:\Users\HFGF\source\repos\H1-SDE\Dag11-regner\Dag11-regner\obj\Debug\Dag11-regner.exe
+C:\Users\HFGF\source\repos\H1-SDE\Dag11-regner\Dag11-regner\obj\Debug\Dag11-regner.pdb

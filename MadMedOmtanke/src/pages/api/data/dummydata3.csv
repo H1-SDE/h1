@@ -1,0 +1,71 @@
+﻿firstname;lastname;phonenumber;email;address;city;zip_code;position;department_number;department_leader;skills
+Anders;Møller;44556677;anders.moller@gmail.com;Møllegade 4;Esbjerg;6700;Supervisor;4;Sara;Vareopfyldning
+Anders;Madsen;88889999;anders.madsen@example.com;Nørregade 10;Horsens;8700;Butiksassistent;2;Lene Christensen;Lagerstyring
+Andreas;Hansen;30405060;andreas.hansen@gmail.com;Vesterbro 12;Odense;5000;Manager;3;Peter;Vareopfyldning
+Emilie;Pedersen;22223333;emilie.pedersen@example.com;Nykøbingvej 7;København;2000;Butiksassistent;2;Lene Christensen;Lagerstyring
+Frederik;Christensen;66667777;frederik.christensen@example.com;Grønnegade 9;Aarhus;8000;Butiksassistent;3;Martin Jørgensen;Kundeservice
+Ida;Poulsen;40506070;ida.poulsen@gmail.com;Skt. Clemens Stræde 15;Esbjerg;6700;Manager;4;Sara;Kassebetjening
+Jacob;Nielsen;55554444;jacob.nielsen@example.com;Algade 6;Odense;5000;Butiksassistent;3;Martin Jørgensen;Kundeservice
+Jesper;Pedersen;88990011;jesper.pedersen@gmail.com;Grønnegade 25;Odense;5000;Associate;3;Peter;Kundeservice
+Kasper;Poulsen;77776666;kasper.poulsen@example.com;Hovedgade 16;Vejle;7100;Butiksassistent;2;Lene Christensen;Salg
+Laura;Christiansen;33334444;laura.christiansen@example.com;Vestergade 12;Esbjerg;6700;Butiksassistent;1;Peter Nielsen;Lagerstyring
+Lena;Hansen;44443333;lena.hansen@example.com;Søndergade 4;København;1000;Butiksassistent;1;Peter Nielsen;Kundeservice
+Louise;Christensen;33445566;louise.christensen@gmail.com;Vestergade 10;Odense;5000;Supervisor;3;Peter;Kundeservice
+Louise;Sørensen;60708090;louise.sorensen@gmail.com;M.P. Bruuns Gade 30;Aarhus;8000;Manager;1;Mads;Vare
+Maja;Rasmussen;99112233;maja.rasmussen@gmail.com;Gammel Kongevej 7;København;1000;Associate;5;Lars;Vareopfyldning
+Maria;Petersen;55667788;maria.petersen@gmail.com;Boulevarden 23;København;1000;Associate;5;Lars;Kassebetjening
+Maria;Larsen;77778888;maria.larsen@example.com;Bredgade 2;Køge;4600;Butiksassistent;1;Peter Nielsen;Lagerstyring
+Mette;Hansen;77889900;mette.hansen@gmail.com;Klostertorvet 2;Aalborg;9000;Manager;2;Anna;Vareopfyldning
+Mette;Andersen;55556666;mette.andersen@example.com;Rådhuspladsen 3;Aalborg;9000;Butiksassistent;3;Martin Jørgensen;Kundeservice
+Mikkel;Nielsen;22334455;mikkel.nielsen@gmail.com;Nørregade 5;Aalborg;9000;Manager;2;Anna;Vareopfyldning
+Nina;Larsen;20304050;nina.larsen@gmail.com;Nørrebro 5;Aalborg;9000;Supervisor;2;Anna;Kundeservice
+Peter;Jørgensen;10203040;peter.jorgensen@gmail.com;Frederiksberggade 14;Aarhus;8000;Associate;1;Mads;Kassebetjening
+Simon;Mikkelsen;50607080;simon.mikkelsen@gmail.com;Guldsmedgade 22;København;1000;Supervisor;5;Lars;Kundeservice
+Sofie;Jensen;11223344;sofie.jensen@gmail.com;Skolegade 3;Aarhus;8000;Manager;1;Mads;Kassebetjening
+Sofie;Olsen;99990000;sofie.olsen@example.com;Roskildevej 12;Holbæk;4300;Butiksassistent;1;Peter Nielsen;Salg
+Sørensen;Andersen;66778899;soren.andersen@gmail.com;Østerbrogade 12;Aarhus;8000;Supervisor;1;Mads;Kundeservice
+Thomas;Jensen;11112222;thomas.jensen@example.com;Østergade 20;Randers;8900;Butiksassistent;2;Lene Christensen;Salg
+Anders;Bach;78912345;;Algade 10;Holstebro;7500;Manager;1004;Tina Larsen;Ledelse
+Anna;Larsen;12345678;;Gadevej 1;København;1000;Manager;1001;Hans Nielsen;Teamledelse
+Anne;Jensen;78901234;;Søndergade 5;Aalborg;9000;Supervisor;1002;Anne Jensen;Kommunikation
+Hans;Nielsen;87654321;;Vejlevej 10;Aarhus;8000;Supervisor;1001;Hans Nielsen;Kommunikation
+Jens;Jensen;34567890;;Møllevej 10;Vejle;7100;Associate;1004;Tina Larsen;Kundeservice
+Jesper;Nielsen;89012345;;Banegårdspladsen 10;Aarhus;8000;Supervisor;1005;Jesper Nielsen;Kommunikation
+Kasper;Andersen;56789012;;Viborgvej 50;Viborg;8800;Manager;1003;Morten Madsen;Teamledelse
+Lars;Pedersen;23456789;;Bakkevej 15;Odense;5000;Associate;1001;Hans Nielsen;Kundeservice
+Mads;Jørgensen;90123456;;Frederiksberg Allé 1;København;1820;Associate;1005;Jesper Nielsen;Organisering
+Maria;Lund;67890123;;Store Torv 5;Esbjerg;6700;Associate;1003;Morten Madsen;Organisering
+Morten;Madsen;90123456;;Marselisborg Allé 2;Aarhus;8000;Supervisor;1003;Morten Madsen;Kommunikation
+Peter;Møller;34567890;;Hovedgaden 20;Horsens;8700;Manager;1002;Anne Jensen;Ledelse
+Sofie;Mikkelsen;56789012;;Østergade 15;Kolding;6000;Manager;1005;Jesper Nielsen;Teamledelse
+Tina;Larsen;23456789;;Jernbanegade 5;Esbjerg;6700;Supervisor;1004;Tina Larsen;Kommunikation
+Hans;Madsen;12345678;;Hovedgade 1;Aarhus;8000;Manager;1001;Lone Hansen;Ledelse
+Lone;Hansen;87654321;;Borgergade 10;Aalborg;9000;Supervisor;1001;Lone Hansen;Kommunikation
+Peter;Jensen;23456789;;Parkvej 15;Odense;5000;Associate;1001;Lone Hansen;Kundeservice
+Mette;Poulsen;34567890;;Strandvejen 10;København;1000;Manager;1002;Jens Nielsen;Ledelse
+Jens;Nielsen;45678901;;Søndergade 5;Esbjerg;6700;Supervisor;1002;Jens Nielsen;Kommunikation
+Lars;Mikkelsen;56789012;;Østerbrogade 21;Aarhus;8000;Associate;1002;Jens Nielsen;Organisering
+Anne;Christensen;67890123;;Vesterbrogade 10;København;1000;Manager;1003;Morten Poulsen;Ledelse
+Morten;Poulsen;78901234;;Toftegårdsvej 1;Køge;4600;Supervisor;1003;Morten Poulsen;Kommunikation
+Ida;Andersen;89012345;;Fuglebakken 1;Hillerød;3400;Associate;1003;Morten Poulsen;Kundeservice
+Bo;Mortensen;90123456;;Lyngvej 10;Esbjerg;6700;Manager;1004;Jan Rasmussen;Ledelse
+Jan;Rasmussen;12345678;;Vejlevej 1;Vejle;7100;Supervisor;1004;Jan Rasmussen;Kommunikation
+Søren;Kristensen;23456789;;Fynsgade 15;Aalborg;9000;Associate;1004;Jan Rasmussen;Organisering
+Karen;Pedersen;34567890;;Møllevej 1;Odense;5000;Manager;1005;Maria Larsen;Ledelse
+Maria;Larsen;45678901;;Stationsvej 10;Aarhus;8000;Supervisor;1005;Maria Larsen;Kommunikation
+Niels;Andersen;56789012;;Højskolevej 21;København;1000;Associate;1005;Maria Larsen;Organisering
+Louise;Jensen;67890123;;Havnepladsen;Silkeborg;8600;Manager;1006;Lars Christensen;Ledelse
+Lars;Christensen;67890123;;Teglgårdsvej 10;Randers;8900;Supervisor;1006;Lars Christensen;Kommunikation
+Jesper;Andersen;78901234;;Borgmesterbakken 1;Aarhus;8000;Associate;1006;Lars Christensen;Organisering
+Inger;Pedersen;89012345;;Langgade 10;Holstebro;7500;Manager;1007;Erik Nielsen;Ledelse
+Erik;Nielsen;90123456;;Algade 10;Herning;7400;Supervisor;1007;Erik Nielsen;Kommunikation
+Hanne;Madsen;23456789;;Højvangsvej 15;Kolding;6000;Associate;1007;Erik Nielsen;Organisering
+Henrik;Jensen;34567890;;Bredgade 1;Vejle;7100;Manager;1008;Lene Hansen;Ledelse
+Lene;Hansen;45678901;;Brogade 10;Holbæk;4300;Supervisor;1008;Lene Hansen;Kommunikation
+Mads;Christensen;56789012;;Ågade 21;København;1000;Associate;1008;Lene Hansen;Organisering
+Pia;Nielsen;67890123;;Birkevej 10;Esbjerg;6700;Manager;1009;Jesper Pedersen;Ledelse
+Jesper;Pedersen;78901234;;Højmarkvej 1;Horsens;8700;Supervisor;1009;Jesper Pedersen;Kommunikation
+Louise;Andersen;89012345;;Nyborgvej 10;Odense;5000;Associate;1009;Jesper Pedersen;Organisering
+Mikkel;Larsen;90123456;;Søndergade 15;Kolding;6000;Manager;1010;Ingrid Madsen;Ledelse
+Ingrid;Madsen;23456789;;Nørregade 1;Aalborg;9000;Supervisor;1010;Ingrid Madsen;Kommunikation
+Anders;Poulsen;34567890;;Vestergade 10;Aarhus;8000;Associate;1010;Ingrid Madsen;Organisering

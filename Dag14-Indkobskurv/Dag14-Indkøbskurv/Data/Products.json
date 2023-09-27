@@ -1,0 +1,37 @@
+﻿[
+  {
+    "id": 0,
+    "type": "merchendise",
+    "Title": "T-Shirt",
+    "itemId": "TS001",
+    "price": 20
+  },
+  {
+    "id": 1,
+    "type": "merchendise",
+    "Title": "Hoodie",
+    "itemId": "HW001",
+    "price": 40
+  },
+  {
+    "id": 2,
+    "type": "merchendise",
+    "Title": "Poster",
+    "itemId": "PO001",
+    "price": 10
+  },
+  {
+    "id": 3,
+    "type": "ticket",
+    "Title": "Concert Night",
+    "eventDate": "2022-12-31",
+    "location": "Madison Square Garden, New York"
+  },
+  {
+    "id": 4,
+    "type": "ticket",
+    "Title": "Theater Performance",
+    "eventDate": "2023-01-15",
+    "location": "Theater District, London"
+  }
+]

@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+C:\Users\HFGF\Source\Repos\H1-SDE\Dag3\Dag3\bin\Debug\Dag3.exe.config
+C:\Users\HFGF\Source\Repos\H1-SDE\Dag3\Dag3\bin\Debug\Dag3.exe
+C:\Users\HFGF\Source\Repos\H1-SDE\Dag3\Dag3\bin\Debug\Dag3.pdb
+C:\Users\HFGF\Source\Repos\H1-SDE\Dag3\Dag3\obj\Debug\Dag3.csproj.AssemblyReference.cache
+C:\Users\HFGF\Source\Repos\H1-SDE\Dag3\Dag3\obj\Debug\Dag3.csproj.SuggestedBindingRedirects.cache
+C:\Users\HFGF\Source\Repos\H1-SDE\Dag3\Dag3\obj\Debug\Dag3.csproj.CoreCompileInputs.cache
+=======
+C:\Users\HFGF\Source\Repos\H1-SDE\Dag3\Dag3\obj\Debug\Dag3.csproj.AssemblyReference.cache
+C:\Users\HFGF\Source\Repos\H1-SDE\Dag3\Dag3\obj\Debug\Dag3.csproj.SuggestedBindingRedirects.cache
+C:\Users\HFGF\Source\Repos\H1-SDE\Dag3\Dag3\obj\Debug\Dag3.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\Source\Repos\H1-SDE\Dag3\Dag3\bin\Debug\Dag3.exe.config
+C:\Users\HFGF\Source\Repos\H1-SDE\Dag3\Dag3\bin\Debug\Dag3.exe
+C:\Users\HFGF\Source\Repos\H1-SDE\Dag3\Dag3\bin\Debug\Dag3.pdb
+>>>>>>> main
+C:\Users\HFGF\Source\Repos\H1-SDE\Dag3\Dag3\obj\Debug\Dag3.exe
+C:\Users\HFGF\Source\Repos\H1-SDE\Dag3\Dag3\obj\Debug\Dag3.pdb
